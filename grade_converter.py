@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Justin Weaver    
+# DATE: 10/2/25
+# BRIEF DESCRIPTION:  grade_converter
 
 
 
@@ -14,6 +14,7 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+
 
 print('===== Grade Converter =====')
 
@@ -84,7 +85,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+Honestly, i guess id tell them to check to see if code is already written for you in the repo before you go and write it yourself. 
 
 
 
